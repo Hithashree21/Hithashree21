@@ -1,4 +1,4 @@
-# 💫 About Me:
+#                        HI , I'M HITHASHREE M
 helloo !!<br>I’m an undergraduate CSE student passionate about learning <br>software development and core computer science concepts.<br> I enjoy experimenting with new tools, working on projects,<br> and continuously growing as a developer.
 
 
